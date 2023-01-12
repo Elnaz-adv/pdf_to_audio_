@@ -1,7 +1,7 @@
 import PyPDF2,pyttsx3
 
 
-#inititialize
+#initialize
 start_page = 132
 end_page = 10
 
